@@ -335,7 +335,10 @@ static void announce(void)
 #endif
       "Copyright 2014, Vrije Universiteit, Amsterdam, The Netherlands\n",
       OS_RELEASE);
-  printf("MINIX is open source software, see http://www.minix3.org\n");
+  printf("MINIX is open source software, see http://www.minix3.org\n\n");
+  printf("--------CS551 homework1------------------\n");
+  printf("Student id:A20352628, name: Xincheng Yang\n");
+  printf("--------Finish------------------\n");
 }
 
 /*===========================================================================*
